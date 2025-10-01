@@ -27,20 +27,6 @@ This repository showcases machine learning and forecasting approaches for **cred
 
 ---
 
-## 🚀 Usage
-
-1. Clone repo and install requirements:
-
-   ```bash
-   pip install numpy pandas scikit-learn matplotlib seaborn torch statsmodels
-   ```
-2. Run notebooks:
-
-   * `Neural Net PD Model.ipynb` → Neural network PD estimation
-   * `Wholesale PD Forecasting Model.ipynb` → Macro-factor PD forecasting
-
----
-
 ## 📈 Applications
 
 * Credit risk modeling (retail & wholesale)
